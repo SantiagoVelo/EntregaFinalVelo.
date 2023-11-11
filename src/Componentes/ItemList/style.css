@@ -1,0 +1,15 @@
+.item-list-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.stylesLink {
+  text-decoration: none;
+  color: black;
+}
